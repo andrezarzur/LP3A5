@@ -1,5 +1,5 @@
 # LP3A5
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrezarzur/LP3A5/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/andrezarzur/LP3A5/blob/master/LICENSE.txt) 
 
 # Sobre o projeto
 
