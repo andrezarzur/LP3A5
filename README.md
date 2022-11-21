@@ -10,12 +10,12 @@ Repositório para postagem de atividades de LP3A5.
 
 # Atividades Desenvolvidas
 
-- [Atividade de Options](https://github.com/andrezarzur/LP3A5/blob/master/LICENSE.txt) 
-- [Atividade de Exceptions](https://github.com/andrezarzur/LP3A5/blob/master/LICENSE.txt) 
-- [Atividade do framework Fork-Join](https://github.com/andrezarzur/LP3A5/blob/master/LICENSE.txt) 
-- [Atividade do problema Produto-Consumidor](https://github.com/andrezarzur/LP3A5/blob/master/LICENSE.txt) 
-- [Atividade de Programação Funcional](https://github.com/andrezarzur/LP3A5/blob/master/LICENSE.txt) 
-- [Atividade de Refactoring](https://github.com/andrezarzur/LP3A5/blob/master/LICENSE.txt) 
+- [Atividade de Options](https://github.com/andrezarzur/LP3A5/tree/main/Exercicio%20Options) 
+- [Atividade de Exceptions](https://github.com/andrezarzur/LP3A5/tree/main/Exerc%C3%ADcio%20Exception) 
+- [Atividade do framework Fork-Join](https://github.com/andrezarzur/LP3A5/tree/main/Exerc%C3%ADcio%20ForkJoin) 
+- [Atividade do problema Produto-Consumidor](https://github.com/andrezarzur/LP3A5/tree/main/Exerc%C3%ADcio%20Produto-Consumidor) 
+- [Atividade de Programação Funcional](https://github.com/andrezarzur/LP3A5/tree/main/Exerc%C3%ADcio%20Programa%C3%A7%C3%A3o%20Funcional) 
+- [Atividade de Refactoring](https://github.com/andrezarzur/LP3A5/tree/main/Exerc%C3%ADcio%20Refactoring) 
 
 # Autor
 
